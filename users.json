@@ -1,0 +1,62 @@
+{
+    "status": true,
+    "message": "Users fetched successfully",
+    "data": [
+        {
+            "id": 1,
+            "username": "Dararoth",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtIqz7LykuyQ35iYXuhEyKvboKGLky_6gepw&s",
+            "message": "Hi",
+            "send_time": "02:40",
+            "status": "online"
+        },
+        {
+            "id": 2,
+            "username": "Sakol",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYP-KKtRJXm9qK7k2_PA1utxbxWdpzGIdulQ&s",
+            "message": "Nv na bro!",
+            "send_time": "03:20",
+            "status": "away"
+        },
+        {
+            "id": 3,
+            "username": "Sokun",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/non_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+            "message": "Tv sala nv",
+            "send_time": "05:20",
+            "status": "offline"
+        },
+        {
+            "id": 4,
+            "username": "Vanna",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/non_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+            "message": "What are you doing",
+            "send_time": "02:40",
+            "status": "online"
+        },
+        {
+            "id": 5,
+            "username": "Channary",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3E9H_HA2N8S1F901TNp9Eh42DRdvtB8Jk_cjG-ENUvHZvVGAIwISDxZK2id-3ghVAGU&usqp=CAU",
+            "message": "Tos Der Lg",
+            "send_time": "08:45",
+            "status": "online"
+        },
+        {
+            "id": 6,
+            "username": "Bora",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9UdkG68P9AHESMfKJ-2Ybi9pfnqX1tqx3wQ&s",
+            "message": "What are you doing",
+            "send_time": "02:40",
+            "status": "away"
+        },
+        {
+            "id": 7,
+            "username": "Sokha",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQlX8kHgCFYgNqXisB6cWENyTofgINwzUOG_u6zBbliVuY_n5EwFl0W4k1b43X9HcsII&usqp=CAU",
+            "message": "Doing??",
+            "send_time": "02:40",
+            "status": "offline"
+        }
+    ]
+}
